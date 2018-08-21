@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="303.0" y="788.0">dbUtil.dbConnection</node>
+    <node x="569.0" y="788.0">loginapp.LoginApp</node>
+    <node x="398.0" y="0.0">Admin.StudentData</node>
+    <node x="303.0" y="471.0">loginapp.option</node>
+    <node x="0.0" y="471.0">loginapp.LoginController</node>
+    <node x="0.0" y="788.0">students.StudentsFXMLController</node>
+    <node x="0.0" y="0.0">Admin.AdminController</node>
+    <node x="548.0" y="471.0">loginapp.LoginModel</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.9" x="765.2222222222222" y="291.1111111111111" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
